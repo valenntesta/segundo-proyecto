@@ -6,7 +6,7 @@ Este proyecto está enfocado en el análisis de datos para una empresa de teleco
 
 ## Herramientas y Librerías Utilizadas
 
-- **Python**: Para el análisis de datos y procesamient
+- **Python**: Para el análisis de datos y procesamiento.
   - **pandas**: Manipulación y análisis de datos.
   - **numpy**: Cálculos matemáticos y operaciones numéricas.
   - **matplotlib.pyplot**: Visualización de datos.
@@ -69,4 +69,4 @@ El proceso ETL incluye:
 
 4. **Visualizar los Datos**:
    - Usa los gráficos y KPIs en Power BI para interpretar los resultados y obtener insights.
-
+   
